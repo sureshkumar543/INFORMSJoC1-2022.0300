@@ -8,5 +8,4 @@
 
 <p>Cloud computing is gaining popularity due to its dynamic resource allocation and pay-per-use model. However, it faces issues like lower coverage, high integration rate, longer computation times, and complex operators. A unique Hybridized Optimization Algorithm is proposed, incorporating CSO, PSO, CSO, and CHO, to balance load, enhance resource profit, optimize global to local space, reduce user request waiting time, and ensure precise allotment with less energy consumption.</p>
 
-# ARCHITECTURE DIAGRAM 
-![ARC 1](https://github.com/oswaltmanojibm/2023.JOC-2022-10-OA-300.R3/assets/140398670/2a730caa-adde-4d51-8388-62dedc7df17b)
+
